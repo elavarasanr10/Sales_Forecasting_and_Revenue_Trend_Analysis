@@ -1,5 +1,9 @@
 # Sales Forecasting & Revenue Trend Analysis
 
+🚀 **Live Interactive Dashboard:** [https://elavarasanr10.github.io/Sales_Forecasting_and_Revenue_Trend_Analysis/](https://elavarasanr10.github.io/Sales_Forecasting_and_Revenue_Trend_Analysis/)
+
+![Dashboard Summary](assets/summary_dashboard1.png)
+
 ## Objective
 Analyze 24 months of sales data for a fictional FMCG company (BrightCart Consumer Goods) to measure forecast accuracy, identify revenue trends, and produce a 6-month statistical forecast with scenarios, supporting decisions on marketing allocation, regional targets, and inventory planning.
 
@@ -34,7 +38,7 @@ File: `forecasting_summary.xlsx` (Historical Data / Forecast Model / Metrics & R
 - Root cause analysis of forecast gaps (five-whys, cause categorization) — see `06_Root_Cause_Analysis.docx`
 
 ## Dashboard
-`dashboard.html` — interactive, filterable dashboard (year, region, category, season) with KPI cards, revenue trend vs. forecast, 6-month forecast with scenario range, regional and category breakdowns, model comparison, and a recommendations snapshot. Open directly in any browser, or host via GitHub Pages.
+`index.html` — [Live Interactive Dashboard](https://elavarasanr10.github.io/Sales_Forecasting_and_Revenue_Trend_Analysis/) (filterable by year, region, category, season) with KPI cards, revenue trend vs. forecast, 6-month forecast with scenario range, regional and category breakdowns, model comparison, and a recommendations snapshot. Open directly in any browser, or host via GitHub Pages.
 
 ## Key Insights
 - Total revenue across 24 months: ₹1,21,71,830 against a company forecast of ₹1,17,54,000 (+3.5%)
@@ -66,9 +70,13 @@ Python (data processing, forecasting math, backtesting), Excel/Google Sheets (fi
 | `05_Data_Quality_Validation_Log.docx` | Data checks performed and results |
 | `06_Root_Cause_Analysis.docx` | Five-whys analysis for the three key findings |
 | `07_Recommendations_Memo.docx` | Prioritized recommendations + executive summary |
-| `08_Resume_Bullets_and_Project_Descriptions.docx` | Resume-ready project descriptions |
-| `09_LinkedIn_Content.docx` | Three-post LinkedIn content plan with captions and hashtags |
 | `sales_forecasting_processed.xlsx` | Full 100-row dataset with all calculated fields |
 | `forecasting_summary.xlsx` | Historical data, forecast model, metrics & regional breakdown |
-| `dashboard.html` | Interactive dashboard |
+| `index.html` | Interactive dashboard |
 | `README.md` | This file |
+
+## Author
+**Elavarasan R**  
+*Business Analyst | Data & Revenue Analytics*  
+- **Live Dashboard:** [View Web App](https://elavarasanr10.github.io/Sales_Forecasting_and_Revenue_Trend_Analysis/)  
+- **GitHub Repository:** [Project Repo](https://github.com/elavarasanr10/Sales_Forecasting_and_Revenue_Trend_Analysis)
